@@ -1,4 +1,4 @@
-# TOkenizer
+# Tokenizer
 initialize the lib 
 # Step 1 
 pip install spacy
