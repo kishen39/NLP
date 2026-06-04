@@ -6,7 +6,7 @@ class BPELearner:
         self.merges = []
         self.vocab_size_history = []
         self.merge_frequencies = {}
-        
+      #ssh commit  
     def preprocess_text(self, text):
         """Add end-of-word token (_) and split into words"""
         words = text.split()
